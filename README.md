@@ -5,7 +5,7 @@
 ---
 
 ### 🧑‍💻 About Me  
-- 🎓 Final-year CSE student at **KIET Group of Institutions (8.3 CGPA)**  
+- 🎓 🎓 Recent CSE Graduate (2025) | **KIET Group of Institutions (8.3 CGPA)**  
 - 💡 Passionate about **software engineering, system design, and distributed systems**  
 - ⚡ Love building projects around **web development, security, and cloud-native tools**  
 - 🌍 Travel enthusiast ✈️ – I enjoy exploring new places while coding on the go!  
